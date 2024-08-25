@@ -31,7 +31,8 @@ b=temp
 print("Swapped values are:",a,b)
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/8b9d059a-e154-417c-b5f0-1d9320b89f20)
+![image](https://github.com/user-attachments/assets/d74e82c1-08f6-400c-9f10-f1085bee70a8)
+
 
 
 ## RESULT:
