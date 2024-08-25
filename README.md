@@ -25,6 +25,7 @@ End the program
 #### Register Number: 212223230012
 
 ```
+
 a,b=int(input()),int(input())
 temp=a
 a=b
