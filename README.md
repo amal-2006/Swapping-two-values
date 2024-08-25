@@ -19,8 +19,8 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 
-### Developed by: AMALJOSH MAADHAV J
-### Register Number: 212223230012
+#### Developed by: AMALJOSH MAADHAV J
+#### Register Number: 212223230012
 
 ```
 a,b=int(input()),int(input())
