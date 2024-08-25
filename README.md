@@ -1,5 +1,5 @@
-# DATE: 
-# EX. NO: 1 Swapping-two-values
+## DATE: 
+## EX. NO: 1 Swapping-two-values
 ## AIM:
 To write a python program for swapping of two values.
 ## EQUIPEMENT'S REQUIRED: 
@@ -25,11 +25,13 @@ End the program
 #### Register Number: 212223230012
 
 ```
+
 a,b=int(input()),int(input())
 temp=a
 a=b
 b=temp
 print("Swapped values are:",a,b)
+
 
 
 
